@@ -41,6 +41,5 @@ Passionate about building data-driven solutions using Machine Learning and Trans
 ![Gokul's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokul-r-official&show_icons=true&theme=radical)
 
 ### 📫 Connect with me:
-[LinkedIn](https://linkedin.com/in/gokulr-36614b277?) 
 📧 **Email:** [gokulvishwvanth@gmail.com](mailto:gokulvishwvanth@gmail.com)
-
+🔗 **LinkedIn:** [linkedin.com/in/gokulr](https://linkedin.com/in/gokulr-36614b277?)
