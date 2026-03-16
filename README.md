@@ -42,3 +42,5 @@ Passionate about building data-driven solutions using Machine Learning and Trans
 
 ### 📫 Connect with me:
 [LinkedIn](https://linkedin.com/in/gokulr-36614b277?) 
+📧 **Email:** [gokulvishwvanth@gmail.com](mailto:gokulvishwvanth@gmail.com)
+
